@@ -1,0 +1,109 @@
+{ 
+  	"structure":{
+
+  				"theme":"Dinosaur Hunter",
+  				"datatitle1":"name",
+  				"datatitle2":"era",
+  				"datatitle3":"existed",
+  				"datatitle4":"diet",
+  				"datatitle5":"mobility"
+											
+  				},
+
+
+	"content":[
+
+				{ 	
+
+				"themedata1":"Caseosaurus",
+				"themedata2":"Triassic",
+				"themedata3": "228-209 Million years ago",
+				"themedata4": "Carnivorous",
+				"themedata5":"Good sprinter",
+				"image": "./img/caseosaurus.png",
+				"themeinfotext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+				},
+	
+				{
+				"themedata1":"Camelotia",
+				"themedata2":"Triassic",
+				"themedata3": "205-195 Million years ago",
+				"themedata4": "Herbivore",
+				"themedata5":"Lethargic",
+				"image": "./img/camelotia.png",
+				"themeinfotext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+				},
+
+				{
+				"themedata1":"Coelophysis",
+				"themedata2":"Triassic",
+				"themedata3": "203-196 Million years ago",
+				"themedata4": "Carnivorous",
+				"themedata5":"Fast and agile",
+				"image": "./img/coelophysis.png",
+				"themeinfotext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+				},
+
+				{
+				"themedata1":"Brontosaurus",
+				"themedata2":"Jurassic",
+				"themedata3": "151-149 Million years ago",
+				"themedata4": "Herbivorous ",
+				"themedata5":"Lethargic",
+				"image": "./img/brontosaurus.png",
+				"themeinfotext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+				},
+
+				{
+				"themedata1":"Ceratosaurus ",
+				"themedata2":"Jurassic",
+				"themedata3": "155-145 Million years ago",
+				"themedata4": "Carnivorous",
+				"themedata5":"Lethargic",
+				"image": "./img/ceratosaurus.png",
+				"themeinfotext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+				},
+
+				{
+				"themedata1":"Kentrosaurus",
+				"themedata2":"Jurassic",
+				"themedata3": "156-150 Million years ago",
+				"themedata4": "Herbivorous ",
+				"themedata5":"not built for running fast.",
+				"image": "./img/kentrosaurus.png",
+				"themeinfotext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+				},
+
+				{
+
+				"themedata1":"Iguanodon ",
+				"themedata2":"Cretaceous",
+				"themedata3": "79-60 Million years ago",
+				"themedata4": "Herbivorous ",
+				"themedata5":"img/Lethargic",
+				"image": "./img/iguanodon.png",
+				"themeinfotext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+				},
+
+				{
+				"themedata1":"Ankylosaurus",
+				"themedata2":"Cretaceous",
+				"themedata3": "125-70 Million years ago",
+				"themedata4": "Herbivorous ",
+				"themedata5":"not built for running fast",
+				"image": "./img/ankylosaurus.png",
+				"themeinfotext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+				},
+
+				{
+				"themedata1":"Achelousaurus ",
+				"themedata2":"Cretaceous",
+				"themedata3": "79-60 Million years ago",
+				"themedata4": "Herbivorous ",
+				"themedata5":"Lethargic",
+				"image": "./img/achelousaurus.png",
+				"themeinfotext": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum."
+				}
+
+			]
+}
